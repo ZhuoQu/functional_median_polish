@@ -9,4 +9,4 @@ and the mortality rate of Australian females and males jointly (bivariate functi
 
 ## If we use different years as a category effect, then each subgroup only contains one observation.
 In the one-way model,
-according to Y_{i,j}=m+a_{i} + epsilon_{i,j}, epsilon_{i,j}=0. 
+according to $Y_{i,j}=m+a_{i} + epsilon_{i,j}$, $epsilon_{i,j}=0$. 
